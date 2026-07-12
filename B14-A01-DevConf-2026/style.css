@@ -1,0 +1,57 @@
+/*Navbar*/
+
+.navbar{
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 18px 60px;
+
+    background-color: white;
+
+}
+
+.logo img{
+
+    width: 120px;
+
+}
+
+.navigation ul{
+
+    display: flex;
+
+    list-style: none;
+
+    gap: 30px;
+
+}
+
+.navigation a{
+
+    text-decoration: none;
+
+    color: #333;
+
+    font-size: 15px;
+
+}
+
+.btn-register{
+
+    text-decoration: none;
+
+    background-color: #2952F3;
+
+    color: white;
+
+    padding: 12px 24px;
+
+    border-radius: 8px;
+
+    font-weight: bold;
+
+}

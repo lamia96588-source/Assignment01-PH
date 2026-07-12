@@ -55,3 +55,82 @@
     font-weight: bold;
 
 }
+
+
+/*Hero Section */
+
+.hero{
+
+    background-image: linear-gradient(
+        rgba(0,0,0,0.55),
+        rgba(0,0,0,0.55)
+    ),
+    url(".\\assets\\banner.jpg");
+
+    background-size: cover;
+
+    background-position: center;
+
+    height: 650px;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    text-align: center;
+
+    color: white;
+
+    padding: 20px;
+
+}
+
+.hero-content{
+
+    max-width: 750px;
+
+}
+
+.hero h1{
+
+    font-size: 64px;
+
+    margin-bottom: 20px;
+
+}
+
+.hero h1 span{
+
+    font-style: italic;
+
+}
+
+.hero p{
+
+    font-size: 20px;
+
+    line-height: 1.6;
+
+    margin-bottom: 35px;
+
+}
+
+.hero-button{
+
+    display: inline-block;
+
+    text-decoration: none;
+
+    background-color: #2952F3;
+
+    color: white;
+
+    padding: 16px 36px;
+
+    border-radius: 8px;
+
+    font-weight: bold;
+
+}

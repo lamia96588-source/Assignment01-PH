@@ -356,3 +356,109 @@
     border: none;
 
 }
+
+/* =========================
+   Mini Hackathon Challenge
+========================= */
+
+.hackathon{
+
+    background-color: #f5f7ff;
+
+    padding: 80px 60px;
+
+}
+
+.hackathon-content{
+
+    max-width: 1000px;
+
+    margin: 0 auto;
+
+    text-align: center;
+
+}
+
+.hackathon h2{
+
+    font-size: 42px;
+
+    margin-bottom: 20px;
+
+}
+
+.hackathon-description{
+
+    font-size: 18px;
+
+    color: #666;
+
+    max-width: 700px;
+
+    margin: 0 auto 50px;
+
+    line-height: 1.6;
+
+}
+
+.hackathon-info{
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 25px;
+
+    margin-bottom: 40px;
+
+}
+
+.info-card{
+
+    background-color: white;
+
+    width: 250px;
+
+    padding: 25px;
+
+    border-radius: 10px;
+
+    border: 1px solid #dddddd;
+
+}
+
+.info-card h3{
+
+    font-size: 20px;
+
+    margin-bottom: 15px;
+
+}
+
+.info-card p{
+
+    font-size: 18px;
+
+    color: #2952F3;
+
+    font-weight: bold;
+
+}
+
+.hackathon-btn{
+
+    display: inline-block;
+
+    text-decoration: none;
+
+    background-color: #2952F3;
+
+    color: white;
+
+    padding: 15px 35px;
+
+    border-radius: 8px;
+
+    font-weight: bold;
+
+}

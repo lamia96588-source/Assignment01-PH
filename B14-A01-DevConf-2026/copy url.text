@@ -1,1 +1,25 @@
-https://github.com/lamia96588-source/Assignment01-PH.git
+# https://github.com/lamia96588-source/Assignment01-PH.git
+
+
+
+
+# Act as a senior UI/UX designer and Front-End Developer.
+
+I am building a DevConf 2026 landing page using only HTML5 and CSS3.
+
+Create a brand-new section to replace the placeholder "Something Missing? Generate a relevant section with AI."
+
+Requirements:
+
+- Theme must fit a modern developer conference.
+- Keep the design clean, minimal, and professional.
+- Do not use JavaScript.
+- Do not use Bootstrap or Tailwind.
+- Use semantic HTML.
+- Keep the code beginner-friendly.
+- Use meaningful class names.
+- The section should be unique but easy to build.
+- Match the existing design with white background, rounded cards, blue accent color (#2952F3), and generous spacing.
+- Suggest a section that adds value to attendees rather than repeating existing content.
+
+Generate only HTML and CSS for one section.

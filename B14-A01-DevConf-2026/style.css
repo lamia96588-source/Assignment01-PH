@@ -216,3 +216,143 @@
 
     line-height: 1.5;
 }
+
+/* =========================
+   Pricing Section
+========================= */
+
+.pricing{
+
+    padding: 80px 60px;
+
+    background-color: #ffffff;
+
+}
+
+.pricing-text{
+
+    text-align: center;
+
+    color: #666666;
+
+    margin-top: -20px;
+
+    margin-bottom: 50px;
+
+}
+
+.pricing-container{
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 30px;
+
+}
+
+.price-card{
+
+    width: 340px;
+
+    padding: 30px;
+
+    border: 1px solid #dddddd;
+
+    border-radius: 10px;
+
+    background-color: white;
+
+}
+
+.featured{
+
+    background-color: #0F172A;
+
+    color: white;
+
+}
+
+.price-card h4{
+
+    font-size: 14px;
+
+    color: #666666;
+
+    margin-bottom: 15px;
+
+}
+
+.featured h4{
+
+    color: white;
+
+}
+
+.price-card h3{
+
+    font-size: 42px;
+
+    margin-bottom: 10px;
+
+}
+
+.per-person{
+
+    color: #777777;
+
+    margin-bottom: 25px;
+
+}
+
+.featured .per-person{
+
+    color: #dddddd;
+
+}
+
+.price-card ul{
+
+    list-style: disc;
+
+    padding-left: 20px;
+
+    margin-bottom: 30px;
+
+}
+
+.price-card li{
+
+    margin-bottom: 12px;
+
+}
+
+.price-button{
+
+    display: block;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    padding: 14px;
+
+    border: 1px solid #2952F3;
+
+    border-radius: 8px;
+
+    color: #2952F3;
+
+    font-weight: bold;
+
+}
+
+.featured-button{
+
+    background-color: #2952F3;
+
+    color: white;
+
+    border: none;
+
+}
